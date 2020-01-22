@@ -49,7 +49,8 @@ NO
 NO
 NO
 NO
-NO
+YES
+2 3 8 
 NO
 NO
 NO
@@ -63,7 +64,8 @@ YES
 NO
 NO
 NO
-NO
+YES
+2 3 10 
 NO
 NO
 NO
@@ -78,7 +80,8 @@ NO
 YES
 2 5 7 
 NO
-NO
+YES
+2 3 12 
 NO
 NO
 NO
@@ -87,11 +90,13 @@ NO
 YES
 2 3 13 
 NO
+YES
+2 4 10 
 NO
 NO
 NO
-NO
-NO
+YES
+2 3 14 
 NO
 NO
 NO
