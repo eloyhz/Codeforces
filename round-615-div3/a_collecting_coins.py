@@ -1,3 +1,4 @@
+# https://codeforces.com/contest/1294/problem/A
 t = int(input())
 for _ in range(t):
 	a, b, c, n = map(int, input().split())
